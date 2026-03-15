@@ -1,3 +1,5 @@
 - Hola soldado 
 - te ves herido
 - Quieres que te ayude?
+
+ ["dialogoNPC-SI"]
