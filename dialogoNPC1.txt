@@ -2,4 +2,4 @@
 - te ves herido
 - Quieres que te ayude?
 
- ["dialogoNPC-SI"]
+[ "dialogoNPC-SI" , "dialogoNPC-NO" ]
